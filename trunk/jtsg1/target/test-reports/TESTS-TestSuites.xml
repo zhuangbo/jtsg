@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="0" name="AnJianTests" package="jtsg" tests="1" time="0.325" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.AnJianTests" name="testSomething" time="0.304" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="1" name="ChuJingTests" package="jtsg" tests="1" time="0.0070" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.ChuJingTests" name="testSomething" time="0.0050" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="2" name="DangShiRenTests" package="jtsg" tests="1" time="0.0070" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.DangShiRenTests" name="testSomething" time="0.0020" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="3" name="JianYanJianDingTests" package="jtsg" tests="1" time="0.0070" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.JianYanJianDingTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="4" name="JianYiChengXuTests" package="jtsg" tests="1" time="0.0060" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.JianYiChengXuTests" name="testSomething" time="0.0020" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="5" name="JieAnTests" package="jtsg" tests="1" time="0.0060" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.JieAnTests" name="testSomething" time="0.0020" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="6" name="JieJingTests" package="jtsg" tests="1" time="0.0080" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.JieJingTests" name="testSomething" time="0.0050" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="7" name="KouLiuJiDongCheTests" package="jtsg" tests="1" time="0.0060" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.KouLiuJiDongCheTests" name="testSomething" time="0.0020" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="8" name="ShiGuBaoZhengJinTests" package="jtsg" tests="1" time="0.0050" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.ShiGuBaoZhengJinTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="9" name="ShiGuRenDingTests" package="jtsg" tests="1" time="0.0050" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.ShiGuRenDingTests" name="testSomething" time="0.0020" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="10" name="ShouQuBaoZhengJinTests" package="jtsg" tests="1" time="0.0050" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.ShouQuBaoZhengJinTests" name="testSomething" time="0.0020" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="11" name="SunShiPingGuTests" package="jtsg" tests="1" time="0.0060" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.SunShiPingGuTests" name="testSomething" time="0.0020" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="12" name="TestControllerTests" package="jtsg" tests="1" time="0.54" timestamp="2010-09-22T07:09:58">
+      <properties />
+
+      <testcase classname="jtsg.TestControllerTests" name="testSomething" time="0.536" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="13" name="WeiFaChuFaTests" package="jtsg" tests="1" time="0.0060" timestamp="2010-09-22T07:09:59">
+      <properties />
+
+      <testcase classname="jtsg.WeiFaChuFaTests" name="testSomething" time="0.0020" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="14" name="XianChangKanChaTests" package="jtsg" tests="1" time="0.0070" timestamp="2010-09-22T07:09:59">
+      <properties />
+
+      <testcase classname="jtsg.XianChangKanChaTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="15" name="XiangGuanFeiYongTests" package="jtsg" tests="1" time="0.01" timestamp="2010-09-22T07:09:59">
+      <properties />
+
+      <testcase classname="jtsg.XiangGuanFeiYongTests" name="testSomething" time="0.0070" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="16" name="XunWenJiLuTests" package="jtsg" tests="1" time="0.0060" timestamp="2010-09-22T07:09:59">
+      <properties />
+
+      <testcase classname="jtsg.XunWenJiLuTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="17" name="YiSongJianChaJiGuanTests" package="jtsg" tests="1" time="0.011" timestamp="2010-09-22T07:09:59">
+      <properties />
+
+      <testcase classname="jtsg.YiSongJianChaJiGuanTests" name="testSomething" time="0.0060" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="18" name="YiSongXunHuiFaTingTests" package="jtsg" tests="1" time="0.0060" timestamp="2010-09-22T07:09:59">
+      <properties />
+
+      <testcase classname="jtsg.YiSongXunHuiFaTingTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="19" name="YongHuTests" package="jtsg" tests="1" time="0.0070" timestamp="2010-09-22T07:09:59">
+      <properties />
+
+      <testcase classname="jtsg.YongHuTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ZHBO-PC" id="20" name="ZhiChuBaoZhengJinTests" package="jtsg" tests="1" time="0.0060" timestamp="2010-09-22T07:09:59">
+      <properties />
+
+      <testcase classname="jtsg.ZhiChuBaoZhengJinTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
